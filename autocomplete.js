@@ -44,5 +44,4 @@ const createAutoComplete = ({ root, renderOption, onOptionSelect, inputValue,fet
       dropdown.classList.remove('is-active');
     }
   });
-  
 };
