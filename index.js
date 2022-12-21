@@ -43,12 +43,6 @@ createAutoComplete({
     onMovieSelect(movie, document.querySelector('#right-summary'), 'right');
   }
 });
- 
-    // Other API Source
-    // return `
-    // <img src="${movie.thumbnailURL}' />
-    // ${movie.title}
-    // `;
 
 let leftMovie;
 let rightMovie;
